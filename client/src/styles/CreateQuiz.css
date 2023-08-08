@@ -1,0 +1,14 @@
+.box-1{
+    height: 100px;
+    width: 1000px;
+}
+
+.input-box {
+    display: flex; /* Use flexbox for layout */
+    flex-direction: column; /* Stack content vertically */
+    align-items: flex-start; 
+  }
+
+  .box-2{
+    background-color: rgb(11, 87, 226);
+  }
